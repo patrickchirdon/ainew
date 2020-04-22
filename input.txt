@@ -1,0 +1,2 @@
+Enter up to 100 smiles here. One smile only for toxicity map.
+

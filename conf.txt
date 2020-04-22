@@ -1,0 +1,9 @@
+receptor= cov_receptor.pdbqt
+ligand = cov_inhbitor.pdbqt
+center_x = -11.141
+center_y = -0.999
+center_z = -0.804
+size_x = 40
+size_y = 64
+size_z = 52
+num_modes = 25
